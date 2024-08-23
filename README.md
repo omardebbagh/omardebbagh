@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Omar 
-#### Masters Student in Financial Engineering 
-![Masters Student in Financial Engineering ](es/banner.png)
+#### Masters Student in Financial Engineering at EDHEC BS in France
+
 
 My experience spans pricing exotic derivatives, generating trading ideas and risk recycling trades, and creating Python-based financial tools in a trading and a structuring desk.
 I'm passionate about applying quantitative analysis to the financial markets and refining my strategic thinking through poker and other analytical pursuits.
