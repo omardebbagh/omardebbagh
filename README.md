@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Omar 
+### Hi, my name is Omar 
 #### Masters Student in Financial Engineering at EDHEC BS in France
 
 
