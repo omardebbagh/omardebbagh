@@ -6,7 +6,7 @@ My experience spans pricing exotic derivatives, generating trading ideas, risk r
 and creating Python-based financial tools in a trading and a structuring desk within the Equity Derivatives space.
 I'm passionate about applying quantitative analysis to the financial markets and refining my strategic thinking through poker and other analytical pursuits.
 
-Skills: Equity Derivatives/Volatility/Dispersion Trading/Vol RV/Poker/Sports betting Arbitrage/Python/SQL/Machine Learning
+Skills: Equity Derivatives/Volatility/Dispersion Trading/Relative Value Strategies/Convertible Bonds Arbitrage/Poker/Sports betting Arbitrage/Python/SQL/Machine Learning
 
 - 🔭 I’m currently working on this page. 
 
