@@ -2,11 +2,12 @@
 ####  I am a Masters Student in Financial Engineering at EDHEC BS with experiences in Equity Derivatives Trading and Structuring 
 
 
-My experience spans pricing exotic derivatives, generating trading ideas, risk recycling trades, working on research projects 
-and creating Python-based financial tools in a trading and a structuring desk within the Equity Derivatives space.
-I'm passionate about applying quantitative analysis to the financial markets and refining my strategic thinking through poker and other analytical pursuits.
+My experience includes pricing exotic derivatives, generating trading ideas, recycling risk and developing Python-based tools for data analysis, risk management and research projects 
+to support decision making.
 
-Skills: Equity Derivatives/Volatility/Dispersion Trading/Relative Value Strategies/Convertible Bonds Arbitrage/Poker/Sports betting Arbitrage/Python/SQL/Machine Learning
+I’m particularly interested in using quantitative methods to analyze market behavior and identify trading strategies. I enjoy taking on challenging problems and constantly strive to improve my understanding of the markets. In my free time, I sharpen my strategic thinking through activities like poker and other analytical pursuits.
+
+Skills: Equity Derivatives/Volatility/Dispersion Trading/Relative Value Strategies/Convertible Bonds Arbitrage/Poker/Sports betting Arbitrage/Python/Machine Learning
 
 - 🔭 I’m currently working on this page. 
 
