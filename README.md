@@ -9,7 +9,8 @@ I’m particularly interested in using quantitative methods to analyze market be
 
 Skills: Equity Derivatives/Volatility/Dispersion Trading/Relative Value Strategies/Convertible Bonds Arbitrage/Poker/Sports betting Arbitrage/Python/Machine Learning
 
-- 🔭 I’m currently working on this page. For now there are three repos for: derivatives pricing, poker analysis tools and trade ideas based on the current market
+- 🔭 I’m currently working on this page.
+- For now there are three repos that I work on: derivatives pricing, poker analysis tools and exploring trade ideas 
 
 
 
