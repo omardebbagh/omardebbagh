@@ -7,7 +7,7 @@ to support decision making.
 
 I’m particularly interested in using quantitative methods to analyze market behavior and identify trading strategies. I enjoy taking on challenging problems and constantly strive to improve my understanding of the markets. In my free time, I sharpen my strategic thinking and risk assessment skills through activities like poker and other analytical pursuits.
 
-Skills: Equity Derivatives/Volatility/Dispersion Trading/Relative Value Strategies/Convertible Bonds Arbitrage/Poker/Sports betting Arbitrage/Python/Machine Learning
+Skills: Equity Derivatives/Volatility/Dispersion Trading/Relative Value Strategies/Convertible Bonds Arbitrage/Credit Derivatives/Poker/Sports betting Arbitrage/Python/Machine Learning
 
 - 🔭 I’m currently working on this page.
 - For now there are three repos that I work on: derivatives pricing, poker analysis tools and exploring trade ideas 
