@@ -5,7 +5,7 @@
 My experience includes pricing exotic derivatives, generating trading ideas, recycling risk and developing Python-based tools for data analysis, risk management and research projects 
 to support decision making.
 
-I’m particularly interested in using quantitative methods to analyze market behavior and identify trading strategies. I enjoy taking on challenging problems and constantly strive to improve my understanding of the markets. In my free time, I sharpen my strategic thinking and risk assessment skills through activities like poker and other analytical pursuits.
+I enjoy taking on challenging problems and constantly strive to improve my understanding of the markets. In my free time, I sharpen my strategic thinking and risk assessment skills through activities like poker and other analytical pursuits.
 
 Skills: Equity Derivatives/Volatility/Dispersion Trading/Relative Value Strategies/Convertible Bonds Arbitrage/Credit Derivatives/Poker/Sports betting Arbitrage/Python/Machine Learning
 
