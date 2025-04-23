@@ -6,7 +6,7 @@ My experience includes pricing exotic derivatives, generating trading ideas, ris
 
 I constantly strive to improve my understanding of the markets and sharpen my strategic thinking and risk assessment skills through activities like poker and other analytical pursuits.
 
-Skills: Equity Derivatives/Volatility/Dispersion Trading/Relative Value Strategies/Poker/Sports betting Arbitrage/Python/Machine Learning
+Skills: Derivatives/Volatility/Dispersion Trading/Relative Value Strategies/Poker/Sports betting Arbitrage/Python/Machine Learning
 
 - 🔭 I’m currently working on this page.
 - For now there are three repos that I work on: derivatives pricing, poker analysis tools and exploring trade ideas 
